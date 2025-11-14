@@ -1,0 +1,753 @@
+D:\ENVIRONMENTS\PYTHON\CONDA3\envs\py3.7\python.exe E:/PROJECT/GGRAPH/RAGA-main/RAGA-main/train.py
+Epoch: 5 / 340 	Loss: 2.946
+
+----------------Train_set----------------
+Left:	Hits@1: 68.45%    Hits@10: 79.91%    MRR: 0.726
+Right:	Hits@1: 67.71%    Hits@10: 80.01%    MRR: 0.721
+----------------Test_set-----------------
+Left:	Hits@1: 74.00%    Hits@10: 84.80%    MRR: 0.780
+Right:	Hits@1: 73.24%    Hits@10: 85.82%    MRR: 0.777
+Test Loss: 2.885
+E:\PROJECT\GGRAPH\RAGA-main\RAGA-main\utils.py:48: UserWarning: __floordiv__ is deprecated, and its behavior will change in a future version of pytorch. It currently rounds toward 0 (like the 'trunc' function NOT 'floor'). This results in incorrect rounding for negative values. To keep the current behavior, use torch.div(a, b, rounding_mode='trunc'), or for actual floor division, use torch.div(a, b, rounding_mode='floor').
+  index_e1 = index//pair_num
+Both:	Hits@Stable: 78.84%
+
+Epoch: 10 / 340 	Loss: 2.829
+
+----------------Train_set----------------
+Left:	Hits@1: 57.33%    Hits@10: 70.72%    MRR: 0.621
+Right:	Hits@1: 57.47%    Hits@10: 70.99%    MRR: 0.623
+----------------Test_set-----------------
+Left:	Hits@1: 63.87%    Hits@10: 77.11%    MRR: 0.688
+Right:	Hits@1: 64.22%    Hits@10: 78.27%    MRR: 0.693
+Test Loss: 2.932
+Both:	Hits@Stable: 68.93%
+
+Epoch: 15 / 340 	Loss: 2.824
+
+----------------Train_set----------------
+Left:	Hits@1: 62.12%    Hits@10: 75.30%    MRR: 0.667
+Right:	Hits@1: 61.10%    Hits@10: 74.93%    MRR: 0.661
+----------------Test_set-----------------
+Left:	Hits@1: 69.11%    Hits@10: 81.82%    MRR: 0.735
+Right:	Hits@1: 67.47%    Hits@10: 81.38%    MRR: 0.723
+Test Loss: 2.868
+Both:	Hits@Stable: 72.44%
+
+Epoch: 20 / 340 	Loss: 2.514
+
+----------------Train_set----------------
+Left:	Hits@1: 53.98%    Hits@10: 67.40%    MRR: 0.587
+Right:	Hits@1: 53.16%    Hits@10: 66.87%    MRR: 0.580
+----------------Test_set-----------------
+Left:	Hits@1: 59.56%    Hits@10: 73.38%    MRR: 0.645
+Right:	Hits@1: 58.49%    Hits@10: 73.20%    MRR: 0.636
+Test Loss: 3.133
+Both:	Hits@Stable: 63.16%
+
+Epoch: 25 / 340 	Loss: 2.797
+
+----------------Train_set----------------
+Left:	Hits@1: 66.96%    Hits@10: 79.39%    MRR: 0.713
+Right:	Hits@1: 66.29%    Hits@10: 79.29%    MRR: 0.708
+----------------Test_set-----------------
+Left:	Hits@1: 72.49%    Hits@10: 84.31%    MRR: 0.768
+Right:	Hits@1: 71.87%    Hits@10: 84.84%    MRR: 0.764
+Test Loss: 2.716
+Both:	Hits@Stable: 77.82%
+
+Epoch: 30 / 340 	Loss: 2.464
+
+----------------Train_set----------------
+Left:	Hits@1: 66.61%    Hits@10: 79.57%    MRR: 0.711
+Right:	Hits@1: 65.84%    Hits@10: 78.85%    MRR: 0.705
+----------------Test_set-----------------
+Left:	Hits@1: 72.09%    Hits@10: 84.58%    MRR: 0.766
+Right:	Hits@1: 71.42%    Hits@10: 85.24%    MRR: 0.762
+Test Loss: 2.517
+Both:	Hits@Stable: 78.53%
+
+Epoch: 35 / 340 	Loss: 2.324
+
+----------------Train_set----------------
+Left:	Hits@1: 65.00%    Hits@10: 77.44%    MRR: 0.694
+Right:	Hits@1: 64.43%    Hits@10: 77.33%    MRR: 0.690
+----------------Test_set-----------------
+Left:	Hits@1: 70.18%    Hits@10: 83.02%    MRR: 0.747
+Right:	Hits@1: 69.20%    Hits@10: 84.04%    MRR: 0.744
+Test Loss: 2.287
+Both:	Hits@Stable: 76.13%
+
+Epoch: 40 / 340 	Loss: 1.998
+
+----------------Train_set----------------
+Left:	Hits@1: 63.35%    Hits@10: 75.18%    MRR: 0.675
+Right:	Hits@1: 63.24%    Hits@10: 75.36%    MRR: 0.673
+----------------Test_set-----------------
+Left:	Hits@1: 67.91%    Hits@10: 79.73%    MRR: 0.722
+Right:	Hits@1: 68.04%    Hits@10: 80.22%    MRR: 0.723
+Test Loss: 2.411
+Both:	Hits@Stable: 73.33%
+
+Epoch: 45 / 340 	Loss: 1.871
+
+----------------Train_set----------------
+Left:	Hits@1: 68.10%    Hits@10: 79.95%    MRR: 0.723
+Right:	Hits@1: 67.72%    Hits@10: 80.09%    MRR: 0.721
+----------------Test_set-----------------
+Left:	Hits@1: 73.16%    Hits@10: 84.13%    MRR: 0.771
+Right:	Hits@1: 72.80%    Hits@10: 85.60%    MRR: 0.773
+Test Loss: 2.064
+Both:	Hits@Stable: 79.47%
+
+Epoch: 50 / 340 	Loss: 1.744
+
+----------------Train_set----------------
+Left:	Hits@1: 68.18%    Hits@10: 79.70%    MRR: 0.723
+Right:	Hits@1: 67.88%    Hits@10: 80.09%    MRR: 0.722
+----------------Test_set-----------------
+Left:	Hits@1: 73.11%    Hits@10: 83.69%    MRR: 0.768
+Right:	Hits@1: 72.62%    Hits@10: 85.33%    MRR: 0.769
+Test Loss: 2.090
+Both:	Hits@Stable: 79.69%
+
+Epoch: 55 / 340 	Loss: 1.786
+
+----------------Train_set----------------
+Left:	Hits@1: 70.25%    Hits@10: 81.82%    MRR: 0.744
+Right:	Hits@1: 70.28%    Hits@10: 82.25%    MRR: 0.746
+----------------Test_set-----------------
+Left:	Hits@1: 74.76%    Hits@10: 85.16%    MRR: 0.786
+Right:	Hits@1: 74.80%    Hits@10: 87.16%    MRR: 0.792
+Test Loss: 1.906
+Both:	Hits@Stable: 81.42%
+
+Epoch: 60 / 340 	Loss: 1.584
+
+----------------Train_set----------------
+Left:	Hits@1: 69.57%    Hits@10: 81.18%    MRR: 0.737
+Right:	Hits@1: 69.18%    Hits@10: 81.33%    MRR: 0.735
+----------------Test_set-----------------
+Left:	Hits@1: 73.96%    Hits@10: 83.73%    MRR: 0.775
+Right:	Hits@1: 73.64%    Hits@10: 85.51%    MRR: 0.779
+Test Loss: 1.985
+Both:	Hits@Stable: 80.13%
+
+Epoch: 65 / 340 	Loss: 1.641
+
+----------------Train_set----------------
+Left:	Hits@1: 72.54%    Hits@10: 84.64%    MRR: 0.768
+Right:	Hits@1: 71.99%    Hits@10: 84.45%    MRR: 0.765
+----------------Test_set-----------------
+Left:	Hits@1: 76.00%    Hits@10: 86.89%    MRR: 0.800
+Right:	Hits@1: 76.09%    Hits@10: 88.76%    MRR: 0.805
+Test Loss: 1.788
+Both:	Hits@Stable: 83.11%
+
+Epoch: 70 / 340 	Loss: 1.524
+
+----------------Train_set----------------
+Left:	Hits@1: 72.70%    Hits@10: 84.67%    MRR: 0.769
+Right:	Hits@1: 72.27%    Hits@10: 84.23%    MRR: 0.765
+----------------Test_set-----------------
+Left:	Hits@1: 76.58%    Hits@10: 86.93%    MRR: 0.802
+Right:	Hits@1: 76.09%    Hits@10: 87.64%    MRR: 0.803
+Test Loss: 1.857
+Both:	Hits@Stable: 83.07%
+
+Epoch: 75 / 340 	Loss: 1.550
+
+----------------Train_set----------------
+Left:	Hits@1: 73.87%    Hits@10: 85.54%    MRR: 0.779
+Right:	Hits@1: 73.91%    Hits@10: 86.00%    MRR: 0.782
+----------------Test_set-----------------
+Left:	Hits@1: 76.49%    Hits@10: 86.98%    MRR: 0.804
+Right:	Hits@1: 77.29%    Hits@10: 88.67%    MRR: 0.814
+Test Loss: 1.742
+Both:	Hits@Stable: 83.78%
+
+Epoch: 80 / 340 	Loss: 1.436
+
+----------------Train_set----------------
+Left:	Hits@1: 74.20%    Hits@10: 85.77%    MRR: 0.783
+Right:	Hits@1: 73.98%    Hits@10: 86.11%    MRR: 0.783
+----------------Test_set-----------------
+Left:	Hits@1: 77.33%    Hits@10: 86.84%    MRR: 0.810
+Right:	Hits@1: 77.20%    Hits@10: 88.89%    MRR: 0.813
+Test Loss: 1.740
+Both:	Hits@Stable: 85.02%
+
+Epoch: 85 / 340 	Loss: 1.483
+
+----------------Train_set----------------
+Left:	Hits@1: 75.75%    Hits@10: 87.08%    MRR: 0.798
+Right:	Hits@1: 75.55%    Hits@10: 87.42%    MRR: 0.798
+----------------Test_set-----------------
+Left:	Hits@1: 78.22%    Hits@10: 88.40%    MRR: 0.819
+Right:	Hits@1: 78.49%    Hits@10: 89.82%    MRR: 0.824
+Test Loss: 1.648
+Both:	Hits@Stable: 85.42%
+
+Epoch: 90 / 340 	Loss: 1.399
+
+----------------Train_set----------------
+Left:	Hits@1: 76.36%    Hits@10: 87.87%    MRR: 0.805
+Right:	Hits@1: 76.03%    Hits@10: 88.05%    MRR: 0.803
+----------------Test_set-----------------
+Left:	Hits@1: 78.67%    Hits@10: 88.62%    MRR: 0.823
+Right:	Hits@1: 78.53%    Hits@10: 90.00%    MRR: 0.826
+Test Loss: 1.640
+Both:	Hits@Stable: 84.58%
+
+Epoch: 95 / 340 	Loss: 1.385
+
+----------------Train_set----------------
+Left:	Hits@1: 76.96%    Hits@10: 88.45%    MRR: 0.811
+Right:	Hits@1: 76.94%    Hits@10: 88.84%    MRR: 0.812
+----------------Test_set-----------------
+Left:	Hits@1: 79.11%    Hits@10: 88.62%    MRR: 0.825
+Right:	Hits@1: 79.02%    Hits@10: 90.13%    MRR: 0.829
+Test Loss: 1.624
+Both:	Hits@Stable: 84.98%
+
+Epoch: 100 / 340 	Loss: 1.316
+
+----------------Train_set----------------
+Left:	Hits@1: 77.61%    Hits@10: 88.91%    MRR: 0.817
+Right:	Hits@1: 77.72%    Hits@10: 89.28%    MRR: 0.819
+----------------Test_set-----------------
+Left:	Hits@1: 79.33%    Hits@10: 88.80%    MRR: 0.828
+Right:	Hits@1: 79.51%    Hits@10: 90.00%    MRR: 0.833
+Test Loss: 1.600
+Both:	Hits@Stable: 85.78%
+
+Epoch: 105 / 340 	Loss: 1.306
+
+----------------Train_set----------------
+Left:	Hits@1: 78.60%    Hits@10: 89.57%    MRR: 0.825
+Right:	Hits@1: 78.31%    Hits@10: 89.90%    MRR: 0.825
+----------------Test_set-----------------
+Left:	Hits@1: 80.18%    Hits@10: 89.56%    MRR: 0.835
+Right:	Hits@1: 80.36%    Hits@10: 90.27%    MRR: 0.841
+Test Loss: 1.562
+Both:	Hits@Stable: 86.22%
+
+Epoch: 110 / 340 	Loss: 1.243
+
+----------------Train_set----------------
+Left:	Hits@1: 79.22%    Hits@10: 90.27%    MRR: 0.832
+Right:	Hits@1: 78.88%    Hits@10: 90.47%    MRR: 0.831
+----------------Test_set-----------------
+Left:	Hits@1: 80.67%    Hits@10: 90.09%    MRR: 0.840
+Right:	Hits@1: 80.44%    Hits@10: 90.84%    MRR: 0.842
+Test Loss: 1.549
+Both:	Hits@Stable: 86.40%
+
+Epoch: 115 / 340 	Loss: 1.229
+
+----------------Train_set----------------
+Left:	Hits@1: 79.93%    Hits@10: 90.82%    MRR: 0.838
+Right:	Hits@1: 79.55%    Hits@10: 91.00%    MRR: 0.837
+----------------Test_set-----------------
+Left:	Hits@1: 81.07%    Hits@10: 89.73%    MRR: 0.842
+Right:	Hits@1: 80.76%    Hits@10: 90.98%    MRR: 0.845
+Test Loss: 1.527
+Both:	Hits@Stable: 86.76%
+
+Epoch: 120 / 340 	Loss: 1.173
+
+----------------Train_set----------------
+Left:	Hits@1: 80.48%    Hits@10: 91.09%    MRR: 0.843
+Right:	Hits@1: 80.21%    Hits@10: 91.14%    MRR: 0.842
+----------------Test_set-----------------
+Left:	Hits@1: 81.11%    Hits@10: 90.00%    MRR: 0.842
+Right:	Hits@1: 80.98%    Hits@10: 91.16%    MRR: 0.846
+Test Loss: 1.507
+Both:	Hits@Stable: 86.84%
+
+Epoch: 125 / 340 	Loss: 1.152
+
+----------------Train_set----------------
+Left:	Hits@1: 81.44%    Hits@10: 91.73%    MRR: 0.852
+Right:	Hits@1: 80.88%    Hits@10: 91.98%    MRR: 0.849
+----------------Test_set-----------------
+Left:	Hits@1: 81.56%    Hits@10: 90.58%    MRR: 0.847
+Right:	Hits@1: 81.07%    Hits@10: 91.60%    MRR: 0.850
+Test Loss: 1.471
+Both:	Hits@Stable: 87.38%
+
+Epoch: 130 / 340 	Loss: 1.077
+
+----------------Train_set----------------
+Left:	Hits@1: 81.67%    Hits@10: 91.75%    MRR: 0.854
+Right:	Hits@1: 80.58%    Hits@10: 91.98%    MRR: 0.847
+----------------Test_set-----------------
+Left:	Hits@1: 81.73%    Hits@10: 90.76%    MRR: 0.850
+Right:	Hits@1: 80.62%    Hits@10: 92.00%    MRR: 0.848
+Test Loss: 1.517
+Both:	Hits@Stable: 87.47%
+
+Epoch: 135 / 340 	Loss: 1.087
+
+----------------Train_set----------------
+Left:	Hits@1: 82.11%    Hits@10: 92.22%    MRR: 0.858
+Right:	Hits@1: 81.46%    Hits@10: 92.33%    MRR: 0.854
+----------------Test_set-----------------
+Left:	Hits@1: 81.91%    Hits@10: 90.49%    MRR: 0.851
+Right:	Hits@1: 81.33%    Hits@10: 91.78%    MRR: 0.852
+Test Loss: 1.477
+Both:	Hits@Stable: 87.78%
+
+Epoch: 140 / 340 	Loss: 1.038
+
+----------------Train_set----------------
+Left:	Hits@1: 82.54%    Hits@10: 92.71%    MRR: 0.862
+Right:	Hits@1: 81.86%    Hits@10: 92.47%    MRR: 0.858
+----------------Test_set-----------------
+Left:	Hits@1: 82.13%    Hits@10: 90.58%    MRR: 0.853
+Right:	Hits@1: 81.91%    Hits@10: 91.73%    MRR: 0.855
+Test Loss: 1.449
+Both:	Hits@Stable: 88.22%
+
+Epoch: 145 / 340 	Loss: 1.025
+
+----------------Train_set----------------
+Left:	Hits@1: 83.20%    Hits@10: 92.96%    MRR: 0.868
+Right:	Hits@1: 82.25%    Hits@10: 92.89%    MRR: 0.862
+----------------Test_set-----------------
+Left:	Hits@1: 82.53%    Hits@10: 91.33%    MRR: 0.858
+Right:	Hits@1: 82.04%    Hits@10: 91.91%    MRR: 0.857
+Test Loss: 1.429
+Both:	Hits@Stable: 88.40%
+
+Epoch: 150 / 340 	Loss: 0.958
+
+----------------Train_set----------------
+Left:	Hits@1: 83.64%    Hits@10: 93.07%    MRR: 0.871
+Right:	Hits@1: 82.18%    Hits@10: 92.95%    MRR: 0.862
+----------------Test_set-----------------
+Left:	Hits@1: 82.80%    Hits@10: 91.47%    MRR: 0.860
+Right:	Hits@1: 82.04%    Hits@10: 92.53%    MRR: 0.858
+Test Loss: 1.485
+Both:	Hits@Stable: 88.18%
+
+Epoch: 155 / 340 	Loss: 0.976
+
+----------------Train_set----------------
+Left:	Hits@1: 83.77%    Hits@10: 93.50%    MRR: 0.873
+Right:	Hits@1: 83.00%    Hits@10: 93.47%    MRR: 0.869
+----------------Test_set-----------------
+Left:	Hits@1: 82.67%    Hits@10: 91.51%    MRR: 0.858
+Right:	Hits@1: 82.31%    Hits@10: 92.62%    MRR: 0.860
+Test Loss: 1.430
+Both:	Hits@Stable: 88.18%
+
+Epoch: 160 / 340 	Loss: 0.939
+
+----------------Train_set----------------
+Left:	Hits@1: 84.09%    Hits@10: 93.69%    MRR: 0.876
+Right:	Hits@1: 83.45%    Hits@10: 93.64%    MRR: 0.873
+----------------Test_set-----------------
+Left:	Hits@1: 82.93%    Hits@10: 91.11%    MRR: 0.860
+Right:	Hits@1: 82.53%    Hits@10: 92.40%    MRR: 0.860
+Test Loss: 1.424
+Both:	Hits@Stable: 89.07%
+
+Epoch: 165 / 340 	Loss: 0.892
+
+----------------Train_set----------------
+Left:	Hits@1: 84.81%    Hits@10: 94.35%    MRR: 0.883
+Right:	Hits@1: 83.87%    Hits@10: 94.13%    MRR: 0.877
+----------------Test_set-----------------
+Left:	Hits@1: 83.47%    Hits@10: 91.91%    MRR: 0.865
+Right:	Hits@1: 82.71%    Hits@10: 92.67%    MRR: 0.864
+Test Loss: 1.399
+Both:	Hits@Stable: 89.07%
+
+Epoch: 170 / 340 	Loss: 0.848
+
+----------------Train_set----------------
+Left:	Hits@1: 85.12%    Hits@10: 94.49%    MRR: 0.886
+Right:	Hits@1: 83.86%    Hits@10: 94.04%    MRR: 0.877
+----------------Test_set-----------------
+Left:	Hits@1: 83.47%    Hits@10: 92.09%    MRR: 0.866
+Right:	Hits@1: 82.36%    Hits@10: 93.11%    MRR: 0.862
+Test Loss: 1.433
+Both:	Hits@Stable: 88.58%
+
+Epoch: 175 / 340 	Loss: 0.869
+
+----------------Train_set----------------
+Left:	Hits@1: 85.49%    Hits@10: 94.99%    MRR: 0.889
+Right:	Hits@1: 84.71%    Hits@10: 94.87%    MRR: 0.885
+----------------Test_set-----------------
+Left:	Hits@1: 83.47%    Hits@10: 92.13%    MRR: 0.867
+Right:	Hits@1: 82.80%    Hits@10: 93.29%    MRR: 0.866
+Test Loss: 1.392
+Both:	Hits@Stable: 89.24%
+
+Epoch: 180 / 340 	Loss: 0.837
+
+----------------Train_set----------------
+Left:	Hits@1: 85.51%    Hits@10: 94.71%    MRR: 0.889
+Right:	Hits@1: 84.86%    Hits@10: 94.75%    MRR: 0.886
+----------------Test_set-----------------
+Left:	Hits@1: 83.11%    Hits@10: 91.60%    MRR: 0.864
+Right:	Hits@1: 82.71%    Hits@10: 92.84%    MRR: 0.864
+Test Loss: 1.410
+Both:	Hits@Stable: 89.02%
+
+Epoch: 185 / 340 	Loss: 0.768
+
+----------------Train_set----------------
+Left:	Hits@1: 86.20%    Hits@10: 95.42%    MRR: 0.896
+Right:	Hits@1: 85.17%    Hits@10: 95.18%    MRR: 0.890
+----------------Test_set-----------------
+Left:	Hits@1: 83.91%    Hits@10: 92.53%    MRR: 0.871
+Right:	Hits@1: 82.84%    Hits@10: 93.47%    MRR: 0.867
+Test Loss: 1.388
+Both:	Hits@Stable: 89.20%
+
+Epoch: 190 / 340 	Loss: 0.752
+
+----------------Train_set----------------
+Left:	Hits@1: 86.64%    Hits@10: 95.47%    MRR: 0.899
+Right:	Hits@1: 85.03%    Hits@10: 95.11%    MRR: 0.888
+----------------Test_set-----------------
+Left:	Hits@1: 83.91%    Hits@10: 92.49%    MRR: 0.871
+Right:	Hits@1: 82.80%    Hits@10: 93.47%    MRR: 0.867
+Test Loss: 1.402
+Both:	Hits@Stable: 89.38%
+
+Epoch: 195 / 340 	Loss: 0.762
+
+----------------Train_set----------------
+Left:	Hits@1: 87.07%    Hits@10: 95.92%    MRR: 0.904
+Right:	Hits@1: 86.20%    Hits@10: 95.80%    MRR: 0.898
+----------------Test_set-----------------
+Left:	Hits@1: 84.00%    Hits@10: 92.58%    MRR: 0.872
+Right:	Hits@1: 83.29%    Hits@10: 93.51%    MRR: 0.871
+Test Loss: 1.354
+Both:	Hits@Stable: 90.36%
+
+Epoch: 200 / 340 	Loss: 0.738
+
+----------------Train_set----------------
+Left:	Hits@1: 86.88%    Hits@10: 95.66%    MRR: 0.902
+Right:	Hits@1: 86.26%    Hits@10: 95.65%    MRR: 0.898
+----------------Test_set-----------------
+Left:	Hits@1: 83.69%    Hits@10: 92.18%    MRR: 0.869
+Right:	Hits@1: 83.07%    Hits@10: 93.07%    MRR: 0.868
+Test Loss: 1.389
+Both:	Hits@Stable: 89.69%
+
+Epoch: 205 / 340 	Loss: 0.701
+
+----------------Train_set----------------
+Left:	Hits@1: 87.59%    Hits@10: 96.20%    MRR: 0.909
+Right:	Hits@1: 86.74%    Hits@10: 96.08%    MRR: 0.903
+----------------Test_set-----------------
+Left:	Hits@1: 83.96%    Hits@10: 92.62%    MRR: 0.872
+Right:	Hits@1: 83.29%    Hits@10: 93.69%    MRR: 0.871
+Test Loss: 1.376
+Both:	Hits@Stable: 89.91%
+
+Epoch: 210 / 340 	Loss: 0.672
+
+----------------Train_set----------------
+Left:	Hits@1: 87.97%    Hits@10: 96.29%    MRR: 0.912
+Right:	Hits@1: 86.54%    Hits@10: 96.12%    MRR: 0.902
+----------------Test_set-----------------
+Left:	Hits@1: 84.44%    Hits@10: 93.07%    MRR: 0.877
+Right:	Hits@1: 83.51%    Hits@10: 94.00%    MRR: 0.874
+Test Loss: 1.373
+Both:	Hits@Stable: 90.22%
+
+Epoch: 215 / 340 	Loss: 0.681
+
+----------------Train_set----------------
+Left:	Hits@1: 88.49%    Hits@10: 96.79%    MRR: 0.917
+Right:	Hits@1: 87.50%    Hits@10: 96.54%    MRR: 0.910
+----------------Test_set-----------------
+Left:	Hits@1: 84.67%    Hits@10: 93.38%    MRR: 0.879
+Right:	Hits@1: 84.09%    Hits@10: 94.18%    MRR: 0.878
+Test Loss: 1.321
+Both:	Hits@Stable: 91.02%
+
+Epoch: 220 / 340 	Loss: 0.648
+
+----------------Train_set----------------
+Left:	Hits@1: 88.39%    Hits@10: 96.57%    MRR: 0.915
+Right:	Hits@1: 87.44%    Hits@10: 96.46%    MRR: 0.909
+----------------Test_set-----------------
+Left:	Hits@1: 84.31%    Hits@10: 93.02%    MRR: 0.876
+Right:	Hits@1: 83.69%    Hits@10: 93.69%    MRR: 0.873
+Test Loss: 1.350
+Both:	Hits@Stable: 90.36%
+
+Epoch: 225 / 340 	Loss: 0.640
+
+----------------Train_set----------------
+Left:	Hits@1: 88.90%    Hits@10: 96.79%    MRR: 0.919
+Right:	Hits@1: 87.72%    Hits@10: 96.81%    MRR: 0.912
+----------------Test_set-----------------
+Left:	Hits@1: 84.40%    Hits@10: 93.11%    MRR: 0.876
+Right:	Hits@1: 83.87%    Hits@10: 93.91%    MRR: 0.875
+Test Loss: 1.355
+Both:	Hits@Stable: 90.44%
+
+Epoch: 230 / 340 	Loss: 0.609
+
+----------------Train_set----------------
+Left:	Hits@1: 89.31%    Hits@10: 97.01%    MRR: 0.923
+Right:	Hits@1: 87.91%    Hits@10: 96.93%    MRR: 0.914
+----------------Test_set-----------------
+Left:	Hits@1: 85.24%    Hits@10: 93.47%    MRR: 0.883
+Right:	Hits@1: 84.13%    Hits@10: 94.40%    MRR: 0.878
+Test Loss: 1.344
+Both:	Hits@Stable: 90.49%
+
+Epoch: 235 / 340 	Loss: 0.611
+
+----------------Train_set----------------
+Left:	Hits@1: 89.63%    Hits@10: 97.32%    MRR: 0.926
+Right:	Hits@1: 88.49%    Hits@10: 97.15%    MRR: 0.918
+----------------Test_set-----------------
+Left:	Hits@1: 85.20%    Hits@10: 93.73%    MRR: 0.883
+Right:	Hits@1: 84.36%    Hits@10: 94.49%    MRR: 0.880
+Test Loss: 1.319
+Both:	Hits@Stable: 90.80%
+
+Epoch: 240 / 340 	Loss: 0.584
+
+----------------Train_set----------------
+Left:	Hits@1: 89.65%    Hits@10: 97.31%    MRR: 0.926
+Right:	Hits@1: 88.50%    Hits@10: 97.22%    MRR: 0.919
+----------------Test_set-----------------
+Left:	Hits@1: 85.07%    Hits@10: 93.29%    MRR: 0.881
+Right:	Hits@1: 84.40%    Hits@10: 94.18%    MRR: 0.879
+Test Loss: 1.327
+Both:	Hits@Stable: 90.98%
+
+Epoch: 245 / 340 	Loss: 0.567
+
+----------------Train_set----------------
+Left:	Hits@1: 90.15%    Hits@10: 97.44%    MRR: 0.930
+Right:	Hits@1: 88.98%    Hits@10: 97.34%    MRR: 0.923
+----------------Test_set-----------------
+Left:	Hits@1: 85.07%    Hits@10: 93.60%    MRR: 0.882
+Right:	Hits@1: 84.80%    Hits@10: 94.53%    MRR: 0.882
+Test Loss: 1.323
+Both:	Hits@Stable: 90.67%
+
+Epoch: 250 / 340 	Loss: 0.544
+
+----------------Train_set----------------
+Left:	Hits@1: 90.38%    Hits@10: 97.69%    MRR: 0.932
+Right:	Hits@1: 89.06%    Hits@10: 97.49%    MRR: 0.924
+----------------Test_set-----------------
+Left:	Hits@1: 85.33%    Hits@10: 93.82%    MRR: 0.884
+Right:	Hits@1: 84.89%    Hits@10: 94.58%    MRR: 0.884
+Test Loss: 1.319
+Both:	Hits@Stable: 90.76%
+
+Epoch: 255 / 340 	Loss: 0.541
+
+----------------Train_set----------------
+Left:	Hits@1: 90.60%    Hits@10: 97.87%    MRR: 0.934
+Right:	Hits@1: 89.58%    Hits@10: 97.68%    MRR: 0.927
+----------------Test_set-----------------
+Left:	Hits@1: 85.60%    Hits@10: 94.22%    MRR: 0.886
+Right:	Hits@1: 84.98%    Hits@10: 94.71%    MRR: 0.885
+Test Loss: 1.310
+Both:	Hits@Stable: 90.89%
+
+Epoch: 260 / 340 	Loss: 0.530
+
+----------------Train_set----------------
+Left:	Hits@1: 90.73%    Hits@10: 97.88%    MRR: 0.935
+Right:	Hits@1: 89.65%    Hits@10: 97.69%    MRR: 0.928
+----------------Test_set-----------------
+Left:	Hits@1: 85.60%    Hits@10: 93.87%    MRR: 0.886
+Right:	Hits@1: 85.02%    Hits@10: 94.76%    MRR: 0.884
+Test Loss: 1.315
+Both:	Hits@Stable: 90.84%
+
+Epoch: 265 / 340 	Loss: 0.505
+
+----------------Train_set----------------
+Left:	Hits@1: 90.97%    Hits@10: 98.02%    MRR: 0.937
+Right:	Hits@1: 89.80%    Hits@10: 97.77%    MRR: 0.930
+----------------Test_set-----------------
+Left:	Hits@1: 85.73%    Hits@10: 94.09%    MRR: 0.887
+Right:	Hits@1: 85.11%    Hits@10: 94.76%    MRR: 0.885
+Test Loss: 1.324
+Both:	Hits@Stable: 90.98%
+
+Epoch: 270 / 340 	Loss: 0.488
+
+----------------Train_set----------------
+Left:	Hits@1: 91.33%    Hits@10: 98.16%    MRR: 0.940
+Right:	Hits@1: 90.12%    Hits@10: 98.02%    MRR: 0.932
+----------------Test_set-----------------
+Left:	Hits@1: 85.87%    Hits@10: 94.22%    MRR: 0.888
+Right:	Hits@1: 85.16%    Hits@10: 94.71%    MRR: 0.886
+Test Loss: 1.314
+Both:	Hits@Stable: 90.80%
+
+Epoch: 275 / 340 	Loss: 0.483
+
+----------------Train_set----------------
+Left:	Hits@1: 91.56%    Hits@10: 98.27%    MRR: 0.942
+Right:	Hits@1: 90.45%    Hits@10: 98.10%    MRR: 0.935
+----------------Test_set-----------------
+Left:	Hits@1: 85.64%    Hits@10: 94.53%    MRR: 0.888
+Right:	Hits@1: 85.38%    Hits@10: 94.76%    MRR: 0.888
+Test Loss: 1.307
+Both:	Hits@Stable: 90.93%
+
+Epoch: 280 / 340 	Loss: 0.473
+
+----------------Train_set----------------
+Left:	Hits@1: 91.70%    Hits@10: 98.25%    MRR: 0.943
+Right:	Hits@1: 90.66%    Hits@10: 98.18%    MRR: 0.936
+----------------Test_set-----------------
+Left:	Hits@1: 85.78%    Hits@10: 94.53%    MRR: 0.889
+Right:	Hits@1: 85.16%    Hits@10: 94.76%    MRR: 0.886
+Test Loss: 1.317
+Both:	Hits@Stable: 90.98%
+
+Epoch: 285 / 340 	Loss: 0.460
+
+----------------Train_set----------------
+Left:	Hits@1: 91.94%    Hits@10: 98.37%    MRR: 0.945
+Right:	Hits@1: 90.89%    Hits@10: 98.31%    MRR: 0.939
+----------------Test_set-----------------
+Left:	Hits@1: 85.82%    Hits@10: 94.62%    MRR: 0.889
+Right:	Hits@1: 85.20%    Hits@10: 94.67%    MRR: 0.887
+Test Loss: 1.322
+Both:	Hits@Stable: 91.51%
+
+Epoch: 290 / 340 	Loss: 0.445
+
+----------------Train_set----------------
+Left:	Hits@1: 92.24%    Hits@10: 98.60%    MRR: 0.948
+Right:	Hits@1: 91.16%    Hits@10: 98.42%    MRR: 0.941
+----------------Test_set-----------------
+Left:	Hits@1: 85.91%    Hits@10: 94.84%    MRR: 0.891
+Right:	Hits@1: 85.42%    Hits@10: 94.84%    MRR: 0.889
+Test Loss: 1.312
+Both:	Hits@Stable: 91.60%
+
+Epoch: 295 / 340 	Loss: 0.432
+
+----------------Train_set----------------
+Left:	Hits@1: 92.45%    Hits@10: 98.57%    MRR: 0.949
+Right:	Hits@1: 91.34%    Hits@10: 98.49%    MRR: 0.942
+----------------Test_set-----------------
+Left:	Hits@1: 86.00%    Hits@10: 94.89%    MRR: 0.891
+Right:	Hits@1: 85.24%    Hits@10: 94.89%    MRR: 0.888
+Test Loss: 1.317
+Both:	Hits@Stable: 91.11%
+
+Epoch: 300 / 340 	Loss: 0.424
+
+----------------Train_set----------------
+Left:	Hits@1: 92.60%    Hits@10: 98.64%    MRR: 0.951
+Right:	Hits@1: 91.62%    Hits@10: 98.54%    MRR: 0.944
+----------------Test_set-----------------
+Left:	Hits@1: 85.91%    Hits@10: 94.80%    MRR: 0.891
+Right:	Hits@1: 85.56%    Hits@10: 94.76%    MRR: 0.889
+Test Loss: 1.309
+Both:	Hits@Stable: 91.38%
+
+Epoch: 305 / 340 	Loss: 0.407
+
+----------------Train_set----------------
+Left:	Hits@1: 92.82%    Hits@10: 98.73%    MRR: 0.952
+Right:	Hits@1: 91.76%    Hits@10: 98.69%    MRR: 0.945
+----------------Test_set-----------------
+Left:	Hits@1: 86.04%    Hits@10: 94.89%    MRR: 0.892
+Right:	Hits@1: 85.73%    Hits@10: 94.84%    MRR: 0.891
+Test Loss: 1.312
+Both:	Hits@Stable: 91.73%
+
+Epoch: 310 / 340 	Loss: 0.398
+
+----------------Train_set----------------
+Left:	Hits@1: 93.11%    Hits@10: 98.88%    MRR: 0.954
+Right:	Hits@1: 92.16%    Hits@10: 98.86%    MRR: 0.949
+----------------Test_set-----------------
+Left:	Hits@1: 86.22%    Hits@10: 95.02%    MRR: 0.894
+Right:	Hits@1: 85.78%    Hits@10: 94.89%    MRR: 0.892
+Test Loss: 1.309
+Both:	Hits@Stable: 91.96%
+
+Epoch: 315 / 340 	Loss: 0.383
+
+----------------Train_set----------------
+Left:	Hits@1: 93.15%    Hits@10: 98.90%    MRR: 0.955
+Right:	Hits@1: 92.20%    Hits@10: 98.89%    MRR: 0.949
+----------------Test_set-----------------
+Left:	Hits@1: 86.09%    Hits@10: 95.11%    MRR: 0.893
+Right:	Hits@1: 86.09%    Hits@10: 94.76%    MRR: 0.893
+Test Loss: 1.314
+Both:	Hits@Stable: 91.51%
+
+Epoch: 320 / 340 	Loss: 0.379
+
+----------------Train_set----------------
+Left:	Hits@1: 93.22%    Hits@10: 98.89%    MRR: 0.956
+Right:	Hits@1: 92.31%    Hits@10: 98.93%    MRR: 0.950
+----------------Test_set-----------------
+Left:	Hits@1: 86.09%    Hits@10: 95.24%    MRR: 0.893
+Right:	Hits@1: 85.96%    Hits@10: 94.71%    MRR: 0.891
+Test Loss: 1.329
+Both:	Hits@Stable: 91.64%
+
+Epoch: 325 / 340 	Loss: 0.362
+
+----------------Train_set----------------
+Left:	Hits@1: 93.65%    Hits@10: 99.03%    MRR: 0.959
+Right:	Hits@1: 92.67%    Hits@10: 99.03%    MRR: 0.953
+----------------Test_set-----------------
+Left:	Hits@1: 86.13%    Hits@10: 95.38%    MRR: 0.894
+Right:	Hits@1: 86.13%    Hits@10: 94.71%    MRR: 0.894
+Test Loss: 1.321
+Both:	Hits@Stable: 92.00%
+
+Epoch: 330 / 340 	Loss: 0.356
+
+----------------Train_set----------------
+Left:	Hits@1: 93.83%    Hits@10: 99.08%    MRR: 0.960
+Right:	Hits@1: 92.58%    Hits@10: 99.05%    MRR: 0.953
+----------------Test_set-----------------
+Left:	Hits@1: 86.18%    Hits@10: 95.38%    MRR: 0.894
+Right:	Hits@1: 86.09%    Hits@10: 94.80%    MRR: 0.893
+Test Loss: 1.328
+Both:	Hits@Stable: 92.09%
+
+Epoch: 335 / 340 	Loss: 0.348
+
+----------------Train_set----------------
+Left:	Hits@1: 93.96%    Hits@10: 99.12%    MRR: 0.961
+Right:	Hits@1: 93.06%    Hits@10: 99.11%    MRR: 0.956
+----------------Test_set-----------------
+Left:	Hits@1: 86.13%    Hits@10: 95.29%    MRR: 0.894
+Right:	Hits@1: 86.27%    Hits@10: 94.89%    MRR: 0.894
+Test Loss: 1.324
+Both:	Hits@Stable: 91.91%
+
+Epoch: 340 / 340 	Loss: 0.337
+
+----------------Train_set----------------
+Left:	Hits@1: 94.13%    Hits@10: 99.21%    MRR: 0.962
+Right:	Hits@1: 93.24%    Hits@10: 99.18%    MRR: 0.957
+----------------Test_set-----------------
+Left:	Hits@1: 86.13%    Hits@10: 95.38%    MRR: 0.894
+Right:	Hits@1: 85.87%    Hits@10: 94.80%    MRR: 0.892
+Test Loss: 1.329
+Both:	Hits@Stable: 91.42%
+
+
+Process finished with exit code 0
